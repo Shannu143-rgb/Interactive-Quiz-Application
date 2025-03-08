@@ -12,6 +12,11 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+#DESCRIPTION
+
+1. Developed a console based quiz app using HTML,CSS,JAVASCRIPT.
+2. The app displays questions,accepts user inputs,provide immediate feedback and calculates final score at the end of the quiz.
+
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/6df47278-be0e-42b1-a29d-82626b772000)
